@@ -1,7 +1,7 @@
 ## FAIZ HERE! 
 
 ![profile count](https://komarev.com/ghpvc/?username=faizrahmang&color=red)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/faizrahmang?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/faizrahmang?label=follow&style=social)]()&nbsp;
 
 
 
